@@ -1,5 +1,5 @@
 # TDE1-Ciberfisicos
 
-Fabio Spiller
-Lucas Gabriel
-Vinicius Wamser
+Fabio Spiller;
+Lucas Gabriel;
+Vinicius Wamser;
